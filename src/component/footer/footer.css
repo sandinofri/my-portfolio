@@ -1,0 +1,38 @@
+.footer{
+    background-color:#181824 ;
+    padding: 100px 0 100px 0;
+}
+
+.footer h1{
+    color: var(--Primary-colour, #fff);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.footer small{
+    display: block;
+    text-align: center;
+    padding: 12px 0 12px 0;
+    font-weight: 100;
+}
+.footer ul{
+    list-style-type: none;
+    padding-left: 0;
+}
+.footer ul li a{ 
+    text-decoration: none;
+    color: #fff;
+    padding: 4px 3px;
+    border-radius: 3px;
+}
+
+.footer a:hover{
+    background-color: #7562e0;
+}
+
+.footer p{
+    line-height: 15px;
+}

@@ -1,0 +1,58 @@
+.skil{
+  padding-bottom: 50px;
+  padding-top: 70px;
+}
+
+.skil .skil-tittle {
+  color: var(--Primary-colour, #7562e0);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
+
+.skil .sertificate-card {
+  width: 300px;
+  border: 1px solid #c5c4c4;
+  border-radius: 10px;
+  padding: 12px;
+}
+
+.skil .sertificate-card:hover {
+  border: 1px solid #7562e0;
+  animation: zoom 1s forwards;
+}
+
+@keyframes zoom{
+  
+  to{
+    transform: scale(1.1);
+  }
+}
+
+.skil .sertificate-card .sertificate-image {
+  width: 100%;
+  height: 200px;
+  img {
+    width: 100%;
+    border-radius: 10px;
+  }
+}
+
+.skil .sertificate-card h2 {
+  color: var(--Primary-colour, #7562e0);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  margin-bottom: 20px;
+  margin-top: 10px;
+}
+
+.skil .view-more{
+    display: block;
+    text-align: center;
+    padding: 16px;
+}
