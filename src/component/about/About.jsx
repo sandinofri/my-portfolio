@@ -29,19 +29,19 @@ const About = () => {
                 activities
               </p>
               <div className="social-media-icon d-flex ">
-                <a href="" className="me-2">
+                <a href="https://www.instagram.com/sandinofri/" className="me-2">
                   <FiInstagram />
                 </a>
-                <a href="" className="me-2">
+                <a href="https://www.facebook.com/sandi.nofri" className="me-2">
                   <FaFacebookF />
                 </a>
                 <a href="" className="me-2">
                   <FiTwitter />
                 </a>
-                <a href="" className="me-2">
+                <a href="https://www.linkedin.com/in/sandi-nofri-b66506245/" className="me-2">
                   <FaLinkedinIn />
                 </a>
-                <a href="" className="me-2">
+                <a href="https://github.com/sandinofri" className="me-2">
                   <FaGithub />
                 </a>
               </div>

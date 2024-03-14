@@ -16,7 +16,7 @@ export const newProject = [
     image: bcr,
     tittle: "car rental website",
     desc: "Car rental website created using React and also connect to API using Axios library, this website is in the process of development",
-    live:"http://loave.tech/",
+    live:"https://sandinofri.github.io/23001028_14_San_bcr_gold/",
     repo:"https://github.com/Richie-Z/23001028_14_GROUP3_Binar-Car-Rental_Platinum"
   },
   {
@@ -35,7 +35,7 @@ export const project = [
     image: bcr,
     tittle: "car rental website",
     desc: "Car rental website created using React and also connect to API using Axios library, this website is in the process of development",
-    live:"http://loave.tech/",
+    live:"https://sandinofri.github.io/23001028_14_San_bcr_gold/",
     repo:"https://github.com/Richie-Z/23001028_14_GROUP3_Binar-Car-Rental_Platinum"
   },
   {
