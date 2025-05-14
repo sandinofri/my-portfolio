@@ -9,15 +9,16 @@ import javascript from "../assets/image/javascript.png";
 import react from "../assets/image/react.png";
 import java from "../assets/image/java.png";
 import bootstrap from "../assets/image/bootstrap.png";
+import movie from "../assets/image/movie-app.png";
 
 export const newProject = [
   {
     id: 1,
-    image: bcr,
-    tittle: "car rental website",
-    desc: "Car rental website created using React and also connect to API using Axios library, this website is in the process of development",
-    live:"https://sandinofri.github.io/23001028_14_San_bcr_gold/",
-    repo:"https://github.com/Richie-Z/23001028_14_GROUP3_Binar-Car-Rental_Platinum"
+    image: movie,
+    tittle: "movie app website",
+    desc: "Movie  App website created using React, Tailwid css and also connect to API using Axios library",
+    live:"https://mission1-fe-advance.vercel.app/",
+    repo:"https://github.com/sandinofri/mission1FE-advance"
   },
   {
     id: 2,
@@ -69,6 +70,14 @@ export const project = [
     desc: "Personal portfolio landing pages created using HTML CSS and JavaScript and for styling using Taillwind CSS",
     live:"https://sandinofri.github.io/portfolio/",
     repo:"https://github.com/sandinofri/portfolio"
+  },
+   {
+    id: 6,
+    image: movie,
+    tittle: "movie app website",
+    desc: "Movie  App website created using React, Tailwid css and also connect to API using Axios library",
+    live:"https://mission1-fe-advance.vercel.app/",
+    repo:"https://github.com/sandinofri/mission1FE-advance"
   },
 ];
 
