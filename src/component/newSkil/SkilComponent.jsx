@@ -1,5 +1,5 @@
 import React from "react";
-import "./Skil.css";
+import "./skil.css";
 import { Container } from "react-bootstrap";
 import { Link } from "react-router-dom";
 
