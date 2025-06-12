@@ -17,7 +17,7 @@ export const newProject = [
     image: movie,
     tittle: "movie app website",
     desc: "Movie  App website created using React, Tailwid css and also connect to API using Axios library",
-    live:"https://mission1-fe-advance.vercel.app/",
+    live:"https://mission2-fe-advance.vercel.app/",
     repo:"https://github.com/sandinofri/mission1FE-advance"
   },
   {
@@ -32,7 +32,15 @@ export const newProject = [
 
 export const project = [
   {
-    id: 1,
+   id: 1,
+   image: movie,
+   tittle: "movie app website",
+   desc: "Movie  App website created using React, Tailwid css and also connect to API using Axios library",
+   live:"https://mission2-fe-advance.vercel.app/",
+   repo:"https://github.com/sandinofri/mission1FE-advance"
+ },
+  {
+    id: 2,
     image: bcr,
     tittle: "car rental website",
     desc: "Car rental website created using React and also connect to API using Axios library, this website is in the process of development",
@@ -40,7 +48,7 @@ export const project = [
     repo:"https://github.com/Richie-Z/23001028_14_GROUP3_Binar-Car-Rental_Platinum"
   },
   {
-    id: 2,
+    id: 3,
     image: course,
     tittle: "landing page Ngoding course",
     desc: "Online course websites created using React JS and bootsrtap as well as the React Router DOM implementation and also using the Animate on Scroll library ",
@@ -48,7 +56,7 @@ export const project = [
     repo:"https://github.com/sandinofri/ngoding-course"
   },
   {
-    id: 3,
+    id: 4,
     image: coffe,
     tittle: "coffe shop website",
     desc: "Coffee shop websites are created using HTML, CSS and JavaScript.",
@@ -56,7 +64,7 @@ export const project = [
     repo:"https://github.com/sandinofri/kopi-janji-manis"
   },
   {
-    id: 4,
+    id: 5,
     image: invitation,
     tittle: "wedding invitation landing page",
     desc: "Created using HTML, CSS, bootsrtap, and JavaScript as well as additional libraries animate on scroll",
@@ -64,20 +72,12 @@ export const project = [
     repo:"https://github.com/sandinofri/undangan-nikah"
   },
   {
-    id: 5,
+    id: 6,
     image: porto,
     tittle: "second portfolio",
     desc: "Personal portfolio landing pages created using HTML CSS and JavaScript and for styling using Taillwind CSS",
     live:"https://sandinofri.github.io/portfolio/",
     repo:"https://github.com/sandinofri/portfolio"
-  },
-   {
-    id: 6,
-    image: movie,
-    tittle: "movie app website",
-    desc: "Movie  App website created using React, Tailwid css and also connect to API using Axios library",
-    live:"https://mission1-fe-advance.vercel.app/",
-    repo:"https://github.com/sandinofri/mission1FE-advance"
   },
 ];
 

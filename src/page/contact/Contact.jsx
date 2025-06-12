@@ -16,19 +16,19 @@ const Contact = () => {
               <h2>Connect With Me</h2>
               <p>Satisfied with me? Please contact me</p>
               <div className="d-flex">
-                <a href="" className="me-2">
+                <a href="https://www.instagram.com/sandinofri/" className="me-2">
                   <FiInstagram />
                 </a>
-                <a href="" className="me-2">
+                <a href="https://web.facebook.com/sandi.nofri" className="me-2">
                   <FaFacebookF />
                 </a>
-                <a href="" className="me-2">
+                <a href="#" className="me-2">
                   <FiTwitter />
                 </a>
-                <a href="" className="me-2">
+                <a href="https://linkedin.com/in/sandi-nofri" className="me-2">
                   <FaLinkedinIn />
                 </a>
-                <a href="" className="me-2">
+                <a href="https://github.com/sandinofri" className="me-2">
                   <FaGithub />
                 </a>
               </div>

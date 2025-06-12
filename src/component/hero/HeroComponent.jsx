@@ -15,7 +15,7 @@ const HeroComponent = () => {
               <h2>Hello <span className="say-hi">🤚</span>, i’m</h2>
               <h1>Sandi Nofri</h1>
               <p>
-                Programer, Front end developer, & Student. I create
+                Programer, Fullstack Developer, & Student. I create
                 seamless web experiences for end-users.
               </p>
               <div className="mt-3">

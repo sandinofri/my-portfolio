@@ -30,21 +30,21 @@ const Footer = () => {
             </div>
           </div>
           <div className="icons-footer d-flex justify-content-center gap-3">
-            <span>
+            <a href="https://www.instagram.com/sandinofri/">
               <FiInstagram />
-            </span>
-            <span>
+            </a>
+            <a href="https://web.facebook.com/sandi.nofri">
               <FaFacebookF />
-            </span>
-            <span>
+            </a>
+            <a href="#">
               <FiTwitter />
-            </span>
-            <span>
+            </a>
+            <a href="https://linkedin.com/in/sandi-nofri">
               <FaLinkedinIn />
-            </span>
-            <span>
+            </a>
+            <a href="https://github.com/sandinofri">
               <FaGithub />
-            </span>
+            </a>
           </div>
           <small >created by sandi nofri</small>
         </Container>
